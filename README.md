@@ -1,6 +1,6 @@
 **This project involves AI facial expression and ui with pyqt5 designed** 
 ## Testing ##
-![](test1.gif)
+![](test3.gif)
 ![](night-test.gif)
 ## Reference ##
 1.https://github.com/KavenLee/wpod_ocr
